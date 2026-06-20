@@ -65,7 +65,7 @@ _dogrula_v6.py      →  Jüri öncesi Excel doğrulama (TEKNOFEST kural uyumu)
 | **KURAL 3**  | Zorunlu Kiralık Araç — Tanımlı hatta her zaman kiralık araç önce atanır | ✅    |
 | **KURAL 4a** | %10 Hard Constraint — Spot araçlarda zorunlu minimum doluluk                   | ✅    |
 | **KURAL 4b** | Format — Tarih YYYY-MM-DD, Şehir sonunda " TM" suffix                          | ✅    |
-| **KURAL 4c** | Jüri Şablonu — Resmi format sayfası klavye hataları dahil birebir üretildi | ✅    |
+| **KURAL 4c** | Jüri Şablonu — Resmi format sayfasına göre birebir üretildi             | ✅    |
 
 ---
 
