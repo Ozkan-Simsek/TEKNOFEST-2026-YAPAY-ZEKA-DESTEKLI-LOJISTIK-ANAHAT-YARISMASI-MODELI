@@ -23,7 +23,7 @@ Bu proje, bir kargo firmasının 11–17 Mayıs 2026 haftasına ait **günlük d
 
 > Kiralık Araç Toplam (Günlük Kira + KM Maliyeti) + Spot Araç Toplam (FTL + Global VRP Uğrama) dahil tam operasyonel bütçe.
 
-### **Kullanılan Kodlar (GitHub Repository Linki): [BURAYA GITHUB REPO LİNKİNİZİ YAPIŞIRIN]**
+### **Kullanılan Kodlar (GitHub Repository Linki): [https://github.com/Ozkan-Simsek/TEKNOFEST-2026-YAPAY-ZEKA-DESTEKLI-LOJISTIK-ANAHAT-YARISMASI-MODELI.git]**
 
 ---
 
@@ -39,6 +39,13 @@ _dogrula_v6.py      →  Jüri öncesi Excel doğrulama (TEKNOFEST kural uyumu)
 ```
 
 ---
+
+## Proje Sonuç Tabloları
+
+<p align="center">
+  <img src="images/model-sonuc-tablo-1.jpeg" alt="Sonuç 1" width="45%" />
+  <img src="images/model-sonuc-tablo-2.jpeg" alt="Sonuç 2" width="45%" />
+</p>
 
 ## Jüri Teslim Dosyaları
 
